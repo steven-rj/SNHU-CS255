@@ -22,4 +22,4 @@ The transcript of the interview between the DriverPass owner and the project man
 
     
 ## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-    
+I had always been one to dive straight into coding an algorithm, forgoing any forward-thinking or pseudocode, and for small or simple scripts, this hasn't plagued me terribly. But, as I'm finding out, now that I'm getting further and further into the Comp Sci curriculum, and the assignments becoming increasingly complex in nature, taking time out to have a think and ponder beforehand the best way to implement a solution, is critical to success. Going forward, I need to make more of an effort to writing pseudocode. And now from the lessons of this Systems Analysis and Design course, I have an appreciation of the necessity to comprehending the requirements set forth by the client. 
